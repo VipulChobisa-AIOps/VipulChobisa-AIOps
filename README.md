@@ -34,53 +34,53 @@ I bridge the gap between high-performance software engineering and physical logi
 
 ---
 
-### 🌐 AskforWrite Digital Ecosystem — 4 Live Portals
+### 🌐 AskforWrite Digital Ecosystem — 4 Live Blogs
 
-> I manage a network of **four content and knowledge portals** under the AskforWrite brand, each targeting a specific audience segment with a distinct content strategy — optimized for Google's Search Generative Experience (SGE) and E-E-A-T authority signals.
-
----
-
-#### 🟣 [ask4write.com](https://ask4write.com) — *Primary Content Hub*
-> **Niche**: Multi-category content platform — Entertainment · Sports · Education · Technology
-
-The flagship portal of the AskforWrite network. Produces SEO-optimized long-form blogs, career guides, and trending topic breakdowns targeting Indian youth (18–35). Structured with JSON-LD schemas and semantic markup for maximum SGE surfacing.
-
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Entertainment_%7C_Sports_%7C_Education_%7C_Tech-6366f1?style=flat-square)
-![SEO](https://img.shields.io/badge/Strategy-SGE_%2B_E--E--A--T-orange?style=flat-square)
+> A network of **four independently branded blogs** under the AskforWrite identity, each serving a distinct niche audience with SEO-optimized content — all authored and managed by Vipul Kumar Chobisa.
 
 ---
 
-#### 🔵 [askforwrite.com](https://askforwrite.com) — *Brand Authority Portal*
-> **Niche**: Professional writing, management consulting & academic content strategy
+#### 📚 [ask4write.com](https://ask4write.com/about-us/) — *AskforWrite Educational*
+> **Niche**: Education & Management
 
-The core brand domain establishing authority in content creation, management strategy, and professional writing. Houses in-depth editorial frameworks, publishing workflows, and consulting resources for businesses seeking structured content strategy.
+The educational flagship of the AskforWrite network. Publishes in-depth articles on the **latest education updates, management studies, and general knowledge** — designed to increase awareness among students and professionals. Covers university news, competitive exam preparation, and management frameworks.
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Management_%7C_Writing_%7C_Consulting-0ea5e9?style=flat-square)
-![SEO](https://img.shields.io/badge/Strategy-Brand_Authority_%2B_E--E--A--T-orange?style=flat-square)
+![Niche](https://img.shields.io/badge/Niche-Education_%26_Management-35b7bd?style=flat-square)
+![Twitter](https://img.shields.io/badge/Twitter-@info__ask4write-1DA1F2?style=flat-square&logo=twitter)
 
 ---
 
-#### 🟢 [askforwrite.in](https://askforwrite.in) — *India-First Knowledge Base*
-> **Niche**: Indian education system, government exams, career pathways & regional content
+#### 🎬 [askforwrite.com](https://askforwrite.com/about-us/) — *AskforWrite Entertainment*
+> **Niche**: Entertainment — OTT, Bollywood, Hollywood & Celebrity News
 
-Dedicated to the Indian audience with hyper-local content — covering government exam preparation (UPSC, SSC, GATE), Indian career guidance, regional educational resources, and skill development aligned with India's job market.
+Covers **trending streaming platform content, OTT releases, film awards, and Hollywood/Bollywood celebrity news articles**. Targets pop-culture followers seeking the latest in entertainment, making it a go-to portal for trending entertainment content in India.
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-India_%7C_Education_%7C_Govt_Exams-16a34a?style=flat-square)
-![SEO](https://img.shields.io/badge/Strategy-Local_SEO_%2B_SGE-orange?style=flat-square)
+![Niche](https://img.shields.io/badge/Niche-Entertainment_%7C_OTT_%7C_Bollywood-e879f9?style=flat-square)
+![Twitter](https://img.shields.io/badge/Twitter-@info__ask4write-1DA1F2?style=flat-square&logo=twitter)
 
 ---
 
-#### 🟡 [askforwrite.info](https://askforwrite.info) — *Semantic Knowledge Graph*
-> **Niche**: Structured data, AI search optimization & entity-based content architecture
+#### 🏏 [askforwrite.in](https://askforwrite.in/about-us-askforwrite-sports/) — *AskforWrite Sports*
+> **Niche**: Cricket & Sports — IPL, ICC, International Matches
 
-The technical backbone of the AskforWrite network. This portal houses structured knowledge graphs, JSON-LD entity schemas, and semantic content layers that feed into LLM indexers and Google's AI overviews. Built specifically to survive and thrive in the post-SGE search landscape.
+A **trending sports blog** focused on **hot cricket news, live match analysis, tournament updates, and player performance reviews**. Covers Indian Premier League (IPL), Big Bash, ICC Champions Trophy, India international matches, and WPL. Plans to expand into football, basketball, and tennis.
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Semantic_SEO_%7C_AI_Search_%7C_Schema-ca8a04?style=flat-square)
-![SEO](https://img.shields.io/badge/Strategy-JSON--LD_%2B_Knowledge_Graphs-orange?style=flat-square)
+![Niche](https://img.shields.io/badge/Niche-Cricket_%7C_IPL_%7C_ICC-fb923c?style=flat-square)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp)
+
+---
+
+#### 🤖 [askforwrite.info](https://askforwrite.info/home-askforwrite-technology/about-us/) — *AskforWrite Technology*
+> **Niche**: Digital Technology — AI, Blockchain, IoT, Cybersecurity, Machine Learning
+
+Delivers **cutting-edge insights on AI, blockchain, cybersecurity, IoT, and digital technology trends**. Covers tools like ChatGPT and DeepSeek, internet safety, and tech innovations with expert-backed, research-driven content. Structured with full JSON-LD Schema.org markup for maximum AI search (SGE) visibility.
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Niche](https://img.shields.io/badge/Niche-AI_%7C_Blockchain_%7C_IoT_%7C_Cybersecurity-818cf8?style=flat-square)
+![Schema](https://img.shields.io/badge/Schema-JSON--LD_%2B_SGE_Optimized-orange?style=flat-square)
 
 ---
 
