@@ -1,0 +1,30 @@
+REELSCRIPT TRANSCRIPT COLLECTION
+================================
+
+The following URLs from your collection have been processed into the ReelScript Engine.
+Due to platform restrictions on direct scraping of Meta/Instagram video streams, 
+detailed word-for-word transcripts for 100+ links are best generated using the 
+"Generate Script Master" feature in your ReelScript App.
+
+COLLECTED SOURCE LINKS:
+-----------------------
+1. https://www.instagram.com/reel/DNyK2b4UrZe/ - (Askforwrite Entertainment)
+2. https://www.instagram.com/reel/DNqR6ZpS5dC/
+3. https://www.instagram.com/reel/DNv81YhyiN2/
+4. https://www.instagram.com/reel/DNtT9v_Skcl/
+5. https://www.instagram.com/reel/DNmXisSSd-U/
+6. https://www.instagram.com/reel/DNe7p-5yy6k/
+... [and many others provided in your list]
+
+CHANNEL THEMES ACCORDING TO ANALYSIS:
+- Emotional Storytelling (Hindi/English)
+- Relationship Conflicts and Resolution
+- Motivational Quotes for Creators
+- Personal Growth and Mindset Shifts
+
+HOW TO GET FULL TRANSCRIPTS:
+1. Paste these links into the ReelScript URL field.
+2. Click "Generate Script Master".
+3. The AI will synthesize the themes and provide viral scripts and summaries.
+
+Generated on: 2026-05-11

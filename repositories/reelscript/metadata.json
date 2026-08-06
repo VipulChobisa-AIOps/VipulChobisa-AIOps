@@ -1,0 +1,8 @@
+{
+  "name": "ReelScript",
+  "description": "Professional video-to-script engine for Reels and Shorts. Extracts value from links into viral Hindi and English scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
