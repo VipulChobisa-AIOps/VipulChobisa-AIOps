@@ -1,128 +1,102 @@
-# Vipul Kumar Chobisa 👋
-**AI-Ops Specialist | B.Tech (Computer Eng.) & MBA (Operations & Production Management)**
+# Hi there, I'm Vipul Kumar Chobisa 👋
 
-I bridge the gap between high-performance software engineering and physical logistics operations. By leveraging **Agentic AI, mobile technologies, and supply chain automation**, I optimize complex industrial workflows and engineer scalable digital ecosystems.
+<p align="center">
+  <a href="https://askforwrite.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Founder+%26+Chief+AI+Systems+Architect;Architect+of+Autonomous+AI+Company+Operating+Systems;Pioneering+0%25-Fee+Sovereign+Payment+Rails;Building+the+Future+of+Agentic+Commerce" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-### 🚀 Executive Overview
-
-*   **Hybrid Foundation**: Combine a rigorous engineering background (**B.Tech in Computer Engineering**) with strategic management principles (**MBA in Operations**).
-*   **Physical Operations Optimization**: Designed and automated inventory management frameworks for **Adani Wilmar** spanning **35 warehouses** using Google Sketch Pro and advanced modeling.
-*   **AI & App Engineering**: Develop AI-integrated mobile software using **Android Studio**, **AI Studio Antigravity**, and **Firebase** (e.g., `afwpixelai`, `stockP`).
-*   **Search Generative Experience (SGE)**: Architect semantic knowledge graphs, structured JSON schema networks, and E-E-A-T search strategies for the **AskforWrite** platform network.
-
----
-
-### 🛠️ Core Technology Stack
-
-#### 💻 Engineering & AI-Ops
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-#### 📦 Operations & Production
-![Warehouse Optimization](https://img.shields.io/badge/Warehouse_Automation-Inventory_Control-blue?style=flat-square)
-![Sketch Pro](https://img.shields.io/badge/Google_Sketch_Pro-3D_Modeling-orange?style=flat-square)
-![SGE Strategy](https://img.shields.io/badge/SGE_2025-Search_Generative_Experience-purple?style=flat-square)
-![E-E-A-T](https://img.shields.io/badge/E--E--A--T-Content_Authority-green?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-AskforWrite%20AI%20Solutions-6366F1?style=for-the-badge&logo=rocket" alt="Founder" />
+  <img src="https://img.shields.io/badge/Specialty-Autonomous%20AI%20Fleets%20%26%20Cryptographic%20Ledgers-10B981?style=for-the-badge" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
-### 🌐 AskforWrite Digital Ecosystem — 4 Live Blogs
+### 👨‍💻 Executive Bio
 
-> A network of **four independently branded blogs** under the AskforWrite identity, each serving a distinct niche audience with SEO-optimized content — all authored and managed by Vipul Kumar Chobisa.
+I am an **Autonomous AI Systems Architect and Software Engineer**. I design and build self-operating enterprise AI systems, sovereign direct payment infrastructures, and multi-agent commercial ecosystems that enable solo founders to run fully autonomous, multi-million rupee digital corporations.
 
----
-
-#### 📚 [ask4write.com](https://ask4write.com/about-us/) — *AskforWrite Educational*
-> **Niche**: Education & Management
-
-The educational flagship of the AskforWrite network. Publishes in-depth articles on the **latest education updates, management studies, and general knowledge** — designed to increase awareness among students and professionals. Covers university news, competitive exam preparation, and management frameworks.
-
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Education_%26_Management-35b7bd?style=flat-square)
-![Twitter](https://img.shields.io/badge/Twitter-@info__ask4write-1DA1F2?style=flat-square&logo=twitter)
+* 🚀 **Founder & Chief AI Systems Architect** at **[AskforWrite AI Solutions](https://askforwrite.in)**.
+* 🏛️ **Creator of AFW DirectPay**: Sovereign zero-fee payment gateway uniting UPI instant dynamic SVG QR codes, direct bank wire proformas, and self-custodial Web3 USDC/USDT settlements.
+* 🔐 **Pioneer of Cryptographic AI Governance**: Immutable operational transparency utilizing **ECDSA NIST P-256 Merkle DAG** trust blocks.
+* 🌐 **Publisher & Media Network Operator**: Overseeing high-authority digital publications across AI, EdTech, and Career Intelligence.
 
 ---
 
-#### 🎬 [askforwrite.com](https://askforwrite.com/about-us/) — *AskforWrite Entertainment*
-> **Niche**: Entertainment — OTT, Bollywood, Hollywood & Celebrity News
+### 🌟 Flagship System: AskforWrite AI Company OS (v2.0 Sovereign Edition)
 
-Covers **trending streaming platform content, OTT releases, film awards, and Hollywood/Bollywood celebrity news articles**. Targets pop-culture followers seeking the latest in entertainment, making it a go-to portal for trending entertainment content in India.
+[![AskforWrite AI Company OS](https://img.shields.io/badge/GitHub%20Repository-askforwrite--ai--company--os-blueviolet?style=for-the-badge&logo=github)](https://github.com/VipulChobisa-AIOps/askforwrite-ai-company-os)
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Entertainment_%7C_OTT_%7C_Bollywood-e879f9?style=flat-square)
-![Twitter](https://img.shields.io/badge/Twitter-@info__ask4write-1DA1F2?style=flat-square&logo=twitter)
+An enterprise-grade, single-person autonomous company operating system featuring:
 
----
+* **24/7 Autonomous SDR Shift Scheduler**: Keyless DuckDuckGo live discovery with zero mock domains, real-time website SEO/GEO audits, and automated outreach dispatch.
+* **AFW DirectPay (0% Intermediary Fee)**: Instant UPI QR (`ask4write@icici`), direct ICICI Bank Ltd wires, and global Web3 USDC/USDT rails on Polygon, Base, and Solana.
+* **2026 SEO, GEO & AIO Engine**: Dynamic Schema.org JSON-LD, `/llms.txt` crawler manifests for SearchGPT & Perplexity, and omnichannel social generation.
+* **ECDSA NIST P-256 Merkle Ledger**: Cryptographically verifiable task execution, payment verification, and automated tenant provisioning.
+* **325 / 325 Passing Tests**: 100% green test coverage and 0 linting errors in strict production compliance.
 
-#### 🏏 [askforwrite.in](https://askforwrite.in/about-us-askforwrite-sports/) — *AskforWrite Sports*
-> **Niche**: Cricket & Sports — IPL, ICC, International Matches
-
-A **trending sports blog** focused on **hot cricket news, live match analysis, tournament updates, and player performance reviews**. Covers Indian Premier League (IPL), Big Bash, ICC Champions Trophy, India international matches, and WPL. Plans to expand into football, basketball, and tennis.
-
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-Cricket_%7C_IPL_%7C_ICC-fb923c?style=flat-square)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp)
-
----
-
-#### 🤖 [askforwrite.info](https://askforwrite.info/home-askforwrite-technology/about-us/) — *AskforWrite Technology*
-> **Niche**: Digital Technology — AI, Blockchain, IoT, Cybersecurity, Machine Learning
-
-Delivers **cutting-edge insights on AI, blockchain, cybersecurity, IoT, and digital technology trends**. Covers tools like ChatGPT and DeepSeek, internet safety, and tech innovations with expert-backed, research-driven content. Structured with full JSON-LD Schema.org markup for maximum AI search (SGE) visibility.
-
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Niche](https://img.shields.io/badge/Niche-AI_%7C_Blockchain_%7C_IoT_%7C_Cybersecurity-818cf8?style=flat-square)
-![Schema](https://img.shields.io/badge/Schema-JSON--LD_%2B_SGE_Optimized-orange?style=flat-square)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       ASKFORWRITE AI COMPANY OS v2.0                        │
+│           Autonomous Agent Fleet • Sovereign Rails • Cryptographic Ledger    │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                       │
+     ┌─────────────────────────────────┼─────────────────────────────────┐
+     ▼                                 ▼                                 ▼
+┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐
+│  Autonomous SDR Engine │  │  AFW DirectPay (0% Fee)│  │ NIST P-256 Trust Chain │
+├────────────────────────┤  ├────────────────────────┤  ├────────────────────────┤
+│ • Zero-Mock Discovery  │  │ • 🇮🇳 UPI: Instant SVG QR│ │ • Immutable Merkle DAG │
+│ • Live SEO/GEO Audits  │  │ • 🏛️ ICICI Wire Proforma│ │ • Instant Tenant Prov  │
+│ • Omnichannel SDR      │  │ • 🌐 Web3 USDC (Polygon)│ │ • Audit Certificates  │
+└────────────────────────┘  └────────────────────────┘  └────────────────────────┘
+```
 
 ---
 
-### 📁 Featured Repositories
+### 🌐 Digital Media Network & Web Properties
 
-#### 🗺️ [field-force-management](https://github.com/VipulChobisa-AIOps/field-force-management)
-Enterprise Field Force Management System — real-time GPS tracking, geo-fencing, task management & live admin dashboard.
-*   **Tech**: React, Node.js, PostgreSQL, Firebase, Tailwind CSS
-*   **Features**: Check-in/out GPS, route history, geo-fence alerts, role-based access, export reports
+I actively own, operate, and syndicate high-impact digital properties powered by autonomous AI content pipelines:
 
-#### 🤖 [afwpixelai-marketing-suite](https://github.com/VipulChobisa-AIOps/afwpixelai-marketing-suite)
-AI-powered marketing suite — Sales Chatbot, personalized Ad Copy Generator & multi-niche Content Engine.
-*   **Tech**: React, TypeScript, Gemini AI, Vite
-*   **Features**: AI chatbot, bulk CSV/XLS/VCF contact import, WhatsApp integration, SGE-focused content packs
+| Property | Domain | Core Focus & Niche |
+|---|---|---|
+| **AskforWrite AI** | [askforwrite.in](https://askforwrite.in) | Enterprise AI Operating Systems, Sovereign B2B Solutions & Commerce |
+| **The AI Scene** | [theaiscene.in](https://theaiscene.in) | Generative AI breakthroughs, LLM Benchmarks & Applied Machine Intelligence |
+| **CareerSathi** | [careersathi.in](https://careersathi.in) | AI Career Pathways, Professional Upskilling & Workforce Transitions |
+| **EduTechGuide** | [edutechguide.in](https://edutechguide.in) | Next-Gen Learning Platforms, EdTech Systems & Academic Analytics |
 
-#### 📦 [Smart-Warehouse-Automation-System](https://github.com/VipulChobisa-AIOps/Smart-Warehouse-Automation-System)
-Automated inventory planning and layout optimization for **35 Adani Wilmar warehouses**.
-*   **Tech**: Python, Google Sketch Pro, ROP/EOQ algorithms
-*   **Impact**: Safety-stock automation, stockout elimination, spatial efficiency optimization
+---
 
-#### 📈 [stockP](https://github.com/VipulChobisa-AIOps/stockP)
-Financial trend analytics and portfolio optimizer powered by RSI/MACD pipelines and Sharpe Ratio modeling.
-*   **Tech**: Python, Pandas, NumPy, Firebase Firestore, Recharts
+### 🛠️ Core Engineering Stack
 
-#### 📱 [askforwrite-digital](https://github.com/VipulChobisa-AIOps/askforwrite-digital)
-Offline-first mobile CMS for the AskforWrite publishing ecosystem.
-*   **Tech**: React Native, TypeScript, AsyncStorage offline queue, FCM push notifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%202.5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-2B2B2B?style=for-the-badge" alt="Alembic" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Web3_EVM_Solana-F16822?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/Cryptography-NIST_P--256-4A154B?style=for-the-badge" alt="Cryptography" />
+</p>
 
-#### 🧬 [answer-engine-data](https://github.com/VipulChobisa-AIOps/answer-engine-data)
-JSON-LD knowledge graphs and semantic schema templates for SGE and AI search indexing.
-*   **Tech**: JSON-LD, Schema.org, RDF, E-E-A-T optimization
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VipulChobisa-AIOps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vipul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulChobisa-AIOps&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📬 Connect With Me
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [Vipul Kumar Chobisa](https://linkedin.com/in/vipul-chobisa) |
-| 🌐 ask4write.com | [ask4write.com](https://ask4write.com) |
-| 🌐 askforwrite.com | [askforwrite.com](https://askforwrite.com) |
-| 🌐 askforwrite.in | [askforwrite.in](https://askforwrite.in) |
-| 🌐 askforwrite.info | [askforwrite.info](https://askforwrite.info) |
-| 📺 YouTube | [@vipulrockstar](https://youtube.com/@vipulrockstar) |
-| 📧 Email | [vipulchobisa@gmail.com](mailto:vipulchobisa@gmail.com) |
+* 🌐 **Company Website**: [https://askforwrite.in](https://askforwrite.in)
+* 💼 **Email**: [info@askforwrite.in](mailto:info@askforwrite.in) | [contact@askforwrite.in](mailto:contact@askforwrite.in)
+* 🐙 **GitHub**: [@VipulChobisa-AIOps](https://github.com/VipulChobisa-AIOps)
